@@ -1,0 +1,27 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  overflow: hidden;
+}
+nav{
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  text-transform: capitalize;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 5vh;
+  
+  
+  
+
+}
+.box{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
